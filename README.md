@@ -51,3 +51,6 @@ Career Entry Challenge: A considerable number of professionals find it moderatel
 Tool Preference: Python’s dominance reinforces its importance in data science curricula and job skills.
 Satisfaction Metrics: A below-average salary happiness score (4.27/10) suggests compensation may not meet expectations despite job popularity.
 Hiring Strategy: Companies can use insights on role satisfaction and tool preferences to tailor roles, increase retention, or enhance onboarding experiences.
+
+
+ScreenShot : Dashboard Screenshot.png
