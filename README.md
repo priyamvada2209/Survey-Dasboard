@@ -54,3 +54,4 @@ Hiring Strategy: Companies can use insights on role satisfaction and tool prefer
 
 
 ScreenShot : Dashboard Screenshot.png
+https://github.com/priyamvada2209/Survey-Dasboard/blob/main/Dashboard%20Screenshot.png
